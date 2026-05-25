@@ -314,8 +314,11 @@
   ],
   "ranks": [
     { "min": 0,   "name": "なぞなぞ 見習い", "short": "見習い", "stars": 1, "color": "#B5A8FF" },
-    { "min": 15,  "name": "なぞなぞ 博士",   "short": "博士",   "stars": 2, "color": "#7FC8E8" },
-    { "min": 60,  "name": "なぞなぞ 名人",   "short": "名人",   "stars": 3, "color": "#FFB37F" },
-    { "min": 150, "name": "なぞなぞ 王",     "short": "王",     "stars": 4, "color": "#FFD24D" }
+    { "min": 5,   "name": "なぞなぞ 弟子",   "short": "弟子",   "stars": 2, "color": "#A8E0C8" },
+    { "min": 20,  "name": "なぞなぞ 博士",   "short": "博士",   "stars": 3, "color": "#7FC8E8" },
+    { "min": 60,  "name": "なぞなぞ 名人",   "short": "名人",   "stars": 4, "color": "#FFB37F" },
+    { "min": 120, "name": "なぞなぞ 達人",   "short": "達人",   "stars": 5, "color": "#FF9999" },
+    { "min": 200, "name": "なぞなぞ 王",     "short": "王",     "stars": 6, "color": "#FFD24D" },
+    { "min": 300, "name": "なぞなぞ 大王",   "short": "大王",   "stars": 7, "color": "#FFD700" }
   ]
 }
